@@ -5,3 +5,7 @@
   
 ## My stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=suchy2020&count_private=true&theme=tokyonight&hide_title=true" alt="suchy2020" /> </p>
+
+### Contact
+  - E-mail sucheta348@gmail.com
+  - Discord suchy#2137
